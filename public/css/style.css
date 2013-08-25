@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    border-top: 4px solid #00B7FF;
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.active {
+    font-weight: bold;
+}
