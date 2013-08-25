@@ -46,6 +46,8 @@ var api = require('./apps/api/app.js');
 app.use('/api', api);
 
 
+// Server
+// ======
 http.createServer(app).listen(1337, function(){
     console.log('Express server listening on port ' + 1337);
 });

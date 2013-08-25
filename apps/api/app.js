@@ -1,5 +1,5 @@
-// Dependecies
-// ===========
+// Dependencies
+// ============
 var express = require('express');
 
 

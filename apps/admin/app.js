@@ -1,5 +1,5 @@
-// Dependecies
-// ===========
+// Dependencies
+// ============
 var express = require('express');
 
 
@@ -14,7 +14,7 @@ app.set('views', __dirname + '/views');
 app.set('view engine', 'jade');
 
 app.use(express.static(__dirname + '/public'));
-console.log(__dirname + '/public');
+
 
 // Routes
 // ======
